@@ -28,11 +28,12 @@
 1. **T. Ahammad**, et al. "Decoding Online Narratives and Unraveling Complexities in the Rohingya Refugee Crisis." *Social Media + Society*, 2024.
 2. **T. Ahammad**. "Identifying Hidden Patterns of Fake COVID-19 News: An In-Depth Sentiment Analysis and Topic Modeling Approach." *Natural Language Processing Journal*, 2024.
 3. **T. Ahammad**, et al. "A Hybrid Dependable Deep Feature Extraction and Ensemble-Based Machine Learning Approach for Breast Cancer Detection." *IEEE Access*, 2023.
-4. And more...
+-Find more on my Google Scholar Profile at the bottom....
 
 ### Conferences
 - **F. Hasan**, et al. "Energy-efficient data collection in mobile sink-based Wireless Sensor Networks using the Hierarchical Clustering Method," *26th ICCIT*, 2023.
 - **T. Ahammad**, et al. "Framework for Detecting and Tracking Religious Abuse in Social Media." *GUCON 2019*, IEEE, 2019.
+- Find more on my Google Scholar Profile at the bottom....
 
 ---
 
