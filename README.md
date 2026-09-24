@@ -1,6 +1,5 @@
-![Banner](https://github.com/tanvir-csejnu01/tanvir-csejnu01/blob/main/Drawing1.jpg)
 # 💻 Tanvir Ahammad
-**Lecturer, Computer Science and Engineering, Jagannath University**  
+**Assistant Professor (Study Leave), Computer Science and Engineering, Jagannath University**  
 *Dhaka-1100, Bangladesh*  
 📧 tanvir@cse.jnu.ac.bd | 🌐 [Jagannath University Profile](https://jnu.ac.bd/fm/pview/10758)
 
