@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&center=true&vCenter=true&width=600&lines=PhD+Student+%40+The+University+of+Alabama;Data+Mining+%7C+Machine+Learning+%7C+Text+Mining;Open+to+research+collaborations!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tanvir%20Ahammad&fontSize=45&fontColor=ffffff&desc=PhD%20Student%20%7C%20Data%20Mining%20•%20Machine%20Learning%20•%20NLP&descSize=16&descAlignY=70" width="100%"/>
 </p>
 <h1 align="center">Hi, I'm Tanvir Ahammad 👋</h1>
 
