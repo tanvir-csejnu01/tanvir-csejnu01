@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tanvir%20Ahammad&fontSize=45&fontColor=ffffff&desc=PhD%20Student%20%7C%20Data%20Mining%20•%20Machine%20Learning%20•%20NLP&descSize=16&descAlignY=70" width="100%"/>
-</p>
+
+<img src="banner.png" width="100%"/>
 <h1 align="center">Hi, I'm Tanvir Ahammad 👋</h1>
 
 <p align="center">
