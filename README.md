@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&center=true&vCenter=true&width=600&lines=PhD+Student+%40+The+University+of+Alabama;Data+Mining+%7C+Machine+Learning+%7C+Text+Mining;Open+to+research+collaborations!" />
+</p>
 <h1 align="center">Hi, I'm Tanvir Ahammad 👋</h1>
 
 <p align="center">
@@ -91,7 +94,7 @@ My research focuses on extracting meaningful patterns from real-world data, espe
 
 ## 📫 Get in Touch
 
-- 📧 **Email:** tanvir@cse.jnu.ac.bd
+- 📧 **Email:** tanvir@cse.jnu.ac.bd/tahammad@crimso.ua.edu/tahammad.cseua2026@gmail.com
 - 🏫 **Faculty Profile:** [Jagannath University](https://jnu.ac.bd/fm/pview/10758)
 - 📍 **Location:** Tuscaloosa, Alabama, USA
 
